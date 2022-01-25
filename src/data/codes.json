@@ -1,0 +1,2405 @@
+[
+    {
+        "name": "阿富汗",
+        "gec_code": "AF",
+        "iso_3166_2a": "AF",
+        "iso_3166_3a": "AFG",
+        "iso_3166_3n": "004",
+        "stanag_1059": "AFG",
+        "domain": ".af"
+    },
+    {
+        "name": "阿尔巴尼亚",
+        "gec_code": "AL",
+        "iso_3166_2a": "AL",
+        "iso_3166_3a": "ALB",
+        "iso_3166_3n": "008",
+        "stanag_1059": "ALB",
+        "domain": ".al"
+    },
+    {
+        "name": "阿尔及利亚",
+        "gec_code": "AG",
+        "iso_3166_2a": "DZ",
+        "iso_3166_3a": "DZA",
+        "iso_3166_3n": "012",
+        "stanag_1059": "DZA",
+        "domain": ".dz"
+    },
+    {
+        "name": "美属萨摩亚",
+        "gec_code": "AQ",
+        "iso_3166_2a": "AS",
+        "iso_3166_3a": "ASM",
+        "iso_3166_3n": "016",
+        "stanag_1059": "ASM",
+        "domain": ".as"
+    },
+    {
+        "name": "安道尔",
+        "gec_code": "AN",
+        "iso_3166_2a": "AD",
+        "iso_3166_3a": "AND",
+        "iso_3166_3n": "020",
+        "stanag_1059": "AND",
+        "domain": ".ad"
+    },
+    {
+        "name": "安哥拉",
+        "gec_code": "AO",
+        "iso_3166_2a": "AO",
+        "iso_3166_3a": "AGO",
+        "iso_3166_3n": "024",
+        "stanag_1059": "AGO",
+        "domain": ".ao"
+    },
+    {
+        "name": "安圭拉",
+        "gec_code": "AV",
+        "iso_3166_2a": "AI",
+        "iso_3166_3a": "AIA",
+        "iso_3166_3n": "660",
+        "stanag_1059": "AIA",
+        "domain": ".ai"
+    },
+    {
+        "name": "南极洲",
+        "gec_code": "AY",
+        "iso_3166_2a": "AQ",
+        "iso_3166_3a": "ATA",
+        "iso_3166_3n": "010",
+        "stanag_1059": "ATA",
+        "domain": ".aq"
+    },
+    {
+        "name": "安提瓜和巴布达",
+        "gec_code": "AC",
+        "iso_3166_2a": "AG",
+        "iso_3166_3a": "ATG",
+        "iso_3166_3n": "028",
+        "stanag_1059": "ATG",
+        "domain": ".ag"
+    },
+    {
+        "name": "阿根廷",
+        "gec_code": "AR",
+        "iso_3166_2a": "AR",
+        "iso_3166_3a": "ARG",
+        "iso_3166_3n": "032",
+        "stanag_1059": "ARG",
+        "domain": ".ar"
+    },
+    {
+        "name": "亚美尼亚",
+        "gec_code": "AM",
+        "iso_3166_2a": "AM",
+        "iso_3166_3a": "ARM",
+        "iso_3166_3n": "051",
+        "stanag_1059": "ARM",
+        "domain": ".am"
+    },
+    {
+        "name": "阿鲁巴",
+        "gec_code": "AA",
+        "iso_3166_2a": "AW",
+        "iso_3166_3a": "ABW",
+        "iso_3166_3n": "533",
+        "stanag_1059": "ABW",
+        "domain": ".aw"
+    },
+    {
+        "name": "澳大利亚",
+        "gec_code": "AS",
+        "iso_3166_2a": "AU",
+        "iso_3166_3a": "AUS",
+        "iso_3166_3n": "036",
+        "stanag_1059": "AUS",
+        "domain": ".au"
+    },
+    {
+        "name": "奥地利",
+        "gec_code": "AU",
+        "iso_3166_2a": "AT",
+        "iso_3166_3a": "AUT",
+        "iso_3166_3n": "040",
+        "stanag_1059": "AUT",
+        "domain": ".at"
+    },
+    {
+        "name": "阿塞拜疆",
+        "gec_code": "AJ",
+        "iso_3166_2a": "AZ",
+        "iso_3166_3a": "AZE",
+        "iso_3166_3n": "031",
+        "stanag_1059": "AZE",
+        "domain": ".az"
+    },
+    {
+        "name": "巴哈马",
+        "gec_code": "BF",
+        "iso_3166_2a": "BS",
+        "iso_3166_3a": "BHS",
+        "iso_3166_3n": "044",
+        "stanag_1059": "BHS",
+        "domain": ".bs"
+    },
+    {
+        "name": "巴林",
+        "gec_code": "BA",
+        "iso_3166_2a": "BH",
+        "iso_3166_3a": "BHR",
+        "iso_3166_3n": "048",
+        "stanag_1059": "BHR",
+        "domain": ".bh"
+    },
+    {
+        "name": "孟加拉国",
+        "gec_code": "BG",
+        "iso_3166_2a": "BD",
+        "iso_3166_3a": "BGD",
+        "iso_3166_3n": "050",
+        "stanag_1059": "BGD",
+        "domain": ".bd"
+    },
+    {
+        "name": "巴巴多斯",
+        "gec_code": "BB",
+        "iso_3166_2a": "BB",
+        "iso_3166_3a": "BRB",
+        "iso_3166_3n": "052",
+        "stanag_1059": "BRB",
+        "domain": ".bb"
+    },
+    {
+        "name": "白俄罗斯",
+        "gec_code": "BO",
+        "iso_3166_2a": "BY",
+        "iso_3166_3a": "BLR",
+        "iso_3166_3n": "112",
+        "stanag_1059": "BLR",
+        "domain": ".by"
+    },
+    {
+        "name": "比利时",
+        "gec_code": "BE",
+        "iso_3166_2a": "BE",
+        "iso_3166_3a": "BEL",
+        "iso_3166_3n": "056",
+        "stanag_1059": "BEL",
+        "domain": ".be"
+    },
+    {
+        "name": "伯利兹",
+        "gec_code": "BH",
+        "iso_3166_2a": "BZ",
+        "iso_3166_3a": "BLZ",
+        "iso_3166_3n": "084",
+        "stanag_1059": "BLZ",
+        "domain": ".bz"
+    },
+    {
+        "name": "贝宁",
+        "gec_code": "BN",
+        "iso_3166_2a": "BJ",
+        "iso_3166_3a": "BEN",
+        "iso_3166_3n": "204",
+        "stanag_1059": "BEN",
+        "domain": ".bj"
+    },
+    {
+        "name": "百慕大",
+        "gec_code": "BD",
+        "iso_3166_2a": "BM",
+        "iso_3166_3a": "BMU",
+        "iso_3166_3n": "060",
+        "stanag_1059": "BMU",
+        "domain": ".bm"
+    },
+    {
+        "name": "不丹",
+        "gec_code": "BT",
+        "iso_3166_2a": "BT",
+        "iso_3166_3a": "BTN",
+        "iso_3166_3n": "064",
+        "stanag_1059": "BTN",
+        "domain": ".bt"
+    },
+    {
+        "name": "玻利维亚",
+        "gec_code": "BL",
+        "iso_3166_2a": "BO",
+        "iso_3166_3a": "BOL",
+        "iso_3166_3n": "068",
+        "stanag_1059": "BOL",
+        "domain": ".bo"
+    },
+    {
+        "name": "波黑",
+        "gec_code": "BK",
+        "iso_3166_2a": "BA",
+        "iso_3166_3a": "BIH",
+        "iso_3166_3n": "070",
+        "stanag_1059": "BIH",
+        "domain": ".ba"
+    },
+    {
+        "name": "博茨瓦纳",
+        "gec_code": "BC",
+        "iso_3166_2a": "BW",
+        "iso_3166_3a": "BWA",
+        "iso_3166_3n": "072",
+        "stanag_1059": "BWA",
+        "domain": ".bw"
+    },
+    {
+        "name": "布韦岛",
+        "gec_code": "BV",
+        "iso_3166_2a": "BV",
+        "iso_3166_3a": "BVT",
+        "iso_3166_3n": "074",
+        "stanag_1059": "BVT",
+        "domain": ".bv"
+    },
+    {
+        "name": "巴西",
+        "gec_code": "BR",
+        "iso_3166_2a": "BR",
+        "iso_3166_3a": "BRA",
+        "iso_3166_3n": "076",
+        "stanag_1059": "BRA",
+        "domain": ".br"
+    },
+    {
+        "name": "英属印度洋领地",
+        "gec_code": "IO",
+        "iso_3166_2a": "IO",
+        "iso_3166_3a": "IOT",
+        "iso_3166_3n": "086",
+        "stanag_1059": "IOT",
+        "domain": ".io"
+    },
+    {
+        "name": "英属维尔京群岛",
+        "gec_code": "VI",
+        "iso_3166_2a": "VG",
+        "iso_3166_3a": "VGB",
+        "iso_3166_3n": "092",
+        "stanag_1059": "VGB",
+        "domain": ".vg"
+    },
+    {
+        "name": "文莱",
+        "gec_code": "BX",
+        "iso_3166_2a": "BN",
+        "iso_3166_3a": "BRN",
+        "iso_3166_3n": "096",
+        "stanag_1059": "BRN",
+        "domain": ".bn"
+    },
+    {
+        "name": "保加利亚",
+        "gec_code": "BU",
+        "iso_3166_2a": "BG",
+        "iso_3166_3a": "BGR",
+        "iso_3166_3n": "100",
+        "stanag_1059": "BGR",
+        "domain": ".bg"
+    },
+    {
+        "name": "布基纳法索",
+        "gec_code": "UV",
+        "iso_3166_2a": "BF",
+        "iso_3166_3a": "BFA",
+        "iso_3166_3n": "854",
+        "stanag_1059": "BFA",
+        "domain": ".bf"
+    },
+    {
+        "name": "缅甸",
+        "gec_code": "BM",
+        "iso_3166_2a": "MM",
+        "iso_3166_3a": "MMR",
+        "iso_3166_3n": "104",
+        "stanag_1059": "MMR",
+        "domain": ".mm"
+    },
+    {
+        "name": "布隆迪",
+        "gec_code": "BY",
+        "iso_3166_2a": "BI",
+        "iso_3166_3a": "BDI",
+        "iso_3166_3n": "108",
+        "stanag_1059": "BDI",
+        "domain": ".bi"
+    },
+    {
+        "name": "佛得角",
+        "gec_code": "CV",
+        "iso_3166_2a": "CV",
+        "iso_3166_3a": "CPV",
+        "iso_3166_3n": "132",
+        "stanag_1059": "CPV",
+        "domain": ".cv"
+    },
+    {
+        "name": "柬埔寨",
+        "gec_code": "CB",
+        "iso_3166_2a": "KH",
+        "iso_3166_3a": "KHM",
+        "iso_3166_3n": "116",
+        "stanag_1059": "KHM",
+        "domain": ".kh"
+    },
+    {
+        "name": "喀麦隆",
+        "gec_code": "CM",
+        "iso_3166_2a": "CM",
+        "iso_3166_3a": "CMR",
+        "iso_3166_3n": "120",
+        "stanag_1059": "CMR",
+        "domain": ".cm"
+    },
+    {
+        "name": "加拿大",
+        "gec_code": "CA",
+        "iso_3166_2a": "CA",
+        "iso_3166_3a": "CAN",
+        "iso_3166_3n": "124",
+        "stanag_1059": "CAN",
+        "domain": ".ca"
+    },
+    {
+        "name": "开曼群岛",
+        "gec_code": "CJ",
+        "iso_3166_2a": "KY",
+        "iso_3166_3a": "CYM",
+        "iso_3166_3n": "136",
+        "stanag_1059": "CYM",
+        "domain": ".ky"
+    },
+    {
+        "name": "中非",
+        "gec_code": "CT",
+        "iso_3166_2a": "CF",
+        "iso_3166_3a": "CAF",
+        "iso_3166_3n": "140",
+        "stanag_1059": "CAF",
+        "domain": ".cf"
+    },
+    {
+        "name": "乍得",
+        "gec_code": "CD",
+        "iso_3166_2a": "TD",
+        "iso_3166_3a": "TCD",
+        "iso_3166_3n": "148",
+        "stanag_1059": "TCD",
+        "domain": ".td"
+    },
+    {
+        "name": "智利",
+        "gec_code": "CI",
+        "iso_3166_2a": "CL",
+        "iso_3166_3a": "CHL",
+        "iso_3166_3n": "152",
+        "stanag_1059": "CHL",
+        "domain": ".cl"
+    },
+    {
+        "name": "中国",
+        "gec_code": "CH",
+        "iso_3166_2a": "CN",
+        "iso_3166_3a": "CHN",
+        "iso_3166_3n": "156",
+        "stanag_1059": "CHN",
+        "domain": ".cn"
+    },
+    {
+        "name": "圣诞岛",
+        "gec_code": "KT",
+        "iso_3166_2a": "CX",
+        "iso_3166_3a": "CXR",
+        "iso_3166_3n": "162",
+        "stanag_1059": "CXR",
+        "domain": ".cx"
+    },
+    {
+        "name": "科科斯（基林）群岛",
+        "gec_code": "CK",
+        "iso_3166_2a": "CC",
+        "iso_3166_3a": "CCK",
+        "iso_3166_3n": "166",
+        "stanag_1059": "AUS",
+        "domain": ".cc"
+    },
+    {
+        "name": "哥伦比亚",
+        "gec_code": "CO",
+        "iso_3166_2a": "CO",
+        "iso_3166_3a": "COL",
+        "iso_3166_3n": "170",
+        "stanag_1059": "COL",
+        "domain": ".co"
+    },
+    {
+        "name": "科摩罗",
+        "gec_code": "CN",
+        "iso_3166_2a": "KM",
+        "iso_3166_3a": "COM",
+        "iso_3166_3n": "174",
+        "stanag_1059": "COM",
+        "domain": ".km"
+    },
+    {
+        "name": "刚果民主共和国",
+        "gec_code": "CG",
+        "iso_3166_2a": "CD",
+        "iso_3166_3a": "COD",
+        "iso_3166_3n": "180",
+        "stanag_1059": "COD",
+        "domain": ".cd"
+    },
+    {
+        "name": "刚果共和国",
+        "gec_code": "CF",
+        "iso_3166_2a": "CG",
+        "iso_3166_3a": "COG",
+        "iso_3166_3n": "178",
+        "stanag_1059": "COG",
+        "domain": ".cg"
+    },
+    {
+        "name": "库克群岛",
+        "gec_code": "CW",
+        "iso_3166_2a": "CK",
+        "iso_3166_3a": "COK",
+        "iso_3166_3n": "184",
+        "stanag_1059": "COK",
+        "domain": ".ck"
+    },
+    {
+        "name": "哥斯达黎加",
+        "gec_code": "CS",
+        "iso_3166_2a": "CR",
+        "iso_3166_3a": "CRI",
+        "iso_3166_3n": "188",
+        "stanag_1059": "CRI",
+        "domain": ".cr"
+    },
+    {
+        "name": "科特迪瓦",
+        "gec_code": "IV",
+        "iso_3166_2a": "CI",
+        "iso_3166_3a": "CIV",
+        "iso_3166_3n": "384",
+        "stanag_1059": "CIV",
+        "domain": ".ci"
+    },
+    {
+        "name": "克罗地亚",
+        "gec_code": "HR",
+        "iso_3166_2a": "HR",
+        "iso_3166_3a": "HRV",
+        "iso_3166_3n": "191",
+        "stanag_1059": "HRV",
+        "domain": ".hr"
+    },
+    {
+        "name": "古巴",
+        "gec_code": "CU",
+        "iso_3166_2a": "CU",
+        "iso_3166_3a": "CUB",
+        "iso_3166_3n": "192",
+        "stanag_1059": "CUB",
+        "domain": ".cu"
+    },
+    {
+        "name": "库拉索",
+        "gec_code": "UC",
+        "iso_3166_2a": "CW",
+        "iso_3166_3a": "CUW",
+        "iso_3166_3n": "531",
+        "stanag_1059": null,
+        "domain": ".cw"
+    },
+    {
+        "name": "塞浦路斯",
+        "gec_code": "CY",
+        "iso_3166_2a": "CY",
+        "iso_3166_3a": "CYP",
+        "iso_3166_3n": "196",
+        "stanag_1059": "CYP",
+        "domain": ".cy"
+    },
+    {
+        "name": "捷克",
+        "gec_code": "EZ",
+        "iso_3166_2a": "CZ",
+        "iso_3166_3a": "CZE",
+        "iso_3166_3n": "203",
+        "stanag_1059": "CZE",
+        "domain": ".cz"
+    },
+    {
+        "name": "丹麦",
+        "gec_code": "DA",
+        "iso_3166_2a": "DK",
+        "iso_3166_3a": "DNK",
+        "iso_3166_3n": "208",
+        "stanag_1059": "DNK",
+        "domain": ".dk"
+    },
+    {
+        "name": "吉布提",
+        "gec_code": "DJ",
+        "iso_3166_2a": "DJ",
+        "iso_3166_3a": "DJI",
+        "iso_3166_3n": "262",
+        "stanag_1059": "DJI",
+        "domain": ".dj"
+    },
+    {
+        "name": "多米尼克",
+        "gec_code": "DO",
+        "iso_3166_2a": "DM",
+        "iso_3166_3a": "DMA",
+        "iso_3166_3n": "212",
+        "stanag_1059": "DMA",
+        "domain": ".dm"
+    },
+    {
+        "name": "多米尼加",
+        "gec_code": "DR",
+        "iso_3166_2a": "DO",
+        "iso_3166_3a": "DOM",
+        "iso_3166_3n": "214",
+        "stanag_1059": "DOM",
+        "domain": ".do"
+    },
+    {
+        "name": "厄瓜多尔",
+        "gec_code": "EC",
+        "iso_3166_2a": "EC",
+        "iso_3166_3a": "ECU",
+        "iso_3166_3n": "218",
+        "stanag_1059": "ECU",
+        "domain": ".ec"
+    },
+    {
+        "name": "埃及",
+        "gec_code": "EG",
+        "iso_3166_2a": "EG",
+        "iso_3166_3a": "EGY",
+        "iso_3166_3n": "818",
+        "stanag_1059": "EGY",
+        "domain": ".eg"
+    },
+    {
+        "name": "萨尔瓦多",
+        "gec_code": "ES",
+        "iso_3166_2a": "SV",
+        "iso_3166_3a": "SLV",
+        "iso_3166_3n": "222",
+        "stanag_1059": "SLV",
+        "domain": ".sv"
+    },
+    {
+        "name": "赤道几内亚",
+        "gec_code": "EK",
+        "iso_3166_2a": "GQ",
+        "iso_3166_3a": "GNQ",
+        "iso_3166_3n": "226",
+        "stanag_1059": "GNQ",
+        "domain": ".gq"
+    },
+    {
+        "name": "厄立特里亚",
+        "gec_code": "ER",
+        "iso_3166_2a": "ER",
+        "iso_3166_3a": "ERI",
+        "iso_3166_3n": "232",
+        "stanag_1059": "ERI",
+        "domain": ".er"
+    },
+    {
+        "name": "爱沙尼亚",
+        "gec_code": "EN",
+        "iso_3166_2a": "EE",
+        "iso_3166_3a": "EST",
+        "iso_3166_3n": "233",
+        "stanag_1059": "EST",
+        "domain": ".ee"
+    },
+    {
+        "name": "埃塞俄比亚",
+        "gec_code": "ET",
+        "iso_3166_2a": "ET",
+        "iso_3166_3a": "ETH",
+        "iso_3166_3n": "231",
+        "stanag_1059": "ETH",
+        "domain": ".et"
+    },
+    {
+        "name": "福克兰群岛",
+        "gec_code": "FK",
+        "iso_3166_2a": "FK",
+        "iso_3166_3a": "FLK",
+        "iso_3166_3n": "238",
+        "stanag_1059": "FLK",
+        "domain": ".fk"
+    },
+    {
+        "name": "法罗群岛",
+        "gec_code": "FO",
+        "iso_3166_2a": "FO",
+        "iso_3166_3a": "FRO",
+        "iso_3166_3n": "234",
+        "stanag_1059": "FRO",
+        "domain": ".fo"
+    },
+    {
+        "name": "斐济",
+        "gec_code": "FJ",
+        "iso_3166_2a": "FJ",
+        "iso_3166_3a": "FJI",
+        "iso_3166_3n": "242",
+        "stanag_1059": "FJI",
+        "domain": ".fj"
+    },
+    {
+        "name": "芬兰",
+        "gec_code": "FI",
+        "iso_3166_2a": "FI",
+        "iso_3166_3a": "FIN",
+        "iso_3166_3n": "246",
+        "stanag_1059": "FIN",
+        "domain": ".fi"
+    },
+    {
+        "name": "法国",
+        "gec_code": "FR",
+        "iso_3166_2a": "FR",
+        "iso_3166_3a": "FRA",
+        "iso_3166_3n": "250",
+        "stanag_1059": "FRA",
+        "domain": ".fr"
+    },
+    {
+        "name": "法国本土",
+        "gec_code": "FX",
+        "iso_3166_2a": "FX",
+        "iso_3166_3a": "FXX",
+        "iso_3166_3n": "249",
+        "stanag_1059": null,
+        "domain": null
+    },
+    {
+        "name": "法属圭亚那",
+        "gec_code": "FG",
+        "iso_3166_2a": "GF",
+        "iso_3166_3a": "GUF",
+        "iso_3166_3n": "254",
+        "stanag_1059": "GUF",
+        "domain": ".gf"
+    },
+    {
+        "name": "法属波利尼西亚",
+        "gec_code": "FP",
+        "iso_3166_2a": "PF",
+        "iso_3166_3a": "PYF",
+        "iso_3166_3n": "258",
+        "stanag_1059": "PYF",
+        "domain": ".pf"
+    },
+    {
+        "name": "法属南部和南极领地",
+        "gec_code": "FS",
+        "iso_3166_2a": "TF",
+        "iso_3166_3a": "ATF",
+        "iso_3166_3n": "260",
+        "stanag_1059": "ATF",
+        "domain": ".tf"
+    },
+    {
+        "name": "加蓬",
+        "gec_code": "GB",
+        "iso_3166_2a": "GA",
+        "iso_3166_3a": "GAB",
+        "iso_3166_3n": "266",
+        "stanag_1059": "GAB",
+        "domain": ".ga"
+    },
+    {
+        "name": "冈比亚",
+        "gec_code": "GA",
+        "iso_3166_2a": "GM",
+        "iso_3166_3a": "GMB",
+        "iso_3166_3n": "270",
+        "stanag_1059": "GMB",
+        "domain": ".gm"
+    },
+    {
+        "name": "巴勒斯坦",
+        "gec_code": "GZ",
+        "iso_3166_2a": "PS",
+        "iso_3166_3a": "PSE",
+        "iso_3166_3n": "275",
+        "stanag_1059": "PSE",
+        "domain": ".ps"
+    },
+    {
+        "name": "格鲁吉亚",
+        "gec_code": "GG",
+        "iso_3166_2a": "GE",
+        "iso_3166_3a": "GEO",
+        "iso_3166_3n": "268",
+        "stanag_1059": "GEO",
+        "domain": ".ge"
+    },
+    {
+        "name": "德国",
+        "gec_code": "GM",
+        "iso_3166_2a": "DE",
+        "iso_3166_3a": "DEU",
+        "iso_3166_3n": "276",
+        "stanag_1059": "DEU",
+        "domain": ".de"
+    },
+    {
+        "name": "加纳",
+        "gec_code": "GH",
+        "iso_3166_2a": "GH",
+        "iso_3166_3a": "GHA",
+        "iso_3166_3n": "288",
+        "stanag_1059": "GHA",
+        "domain": ".gh"
+    },
+    {
+        "name": "直布罗陀",
+        "gec_code": "GI",
+        "iso_3166_2a": "GI",
+        "iso_3166_3a": "GIB",
+        "iso_3166_3n": "292",
+        "stanag_1059": "GIB",
+        "domain": ".gi"
+    },
+    {
+        "name": "希腊",
+        "gec_code": "GR",
+        "iso_3166_2a": "GR",
+        "iso_3166_3a": "GRC",
+        "iso_3166_3n": "300",
+        "stanag_1059": "GRC",
+        "domain": ".gr"
+    },
+    {
+        "name": "格陵兰",
+        "gec_code": "GL",
+        "iso_3166_2a": "GL",
+        "iso_3166_3a": "GRL",
+        "iso_3166_3n": "304",
+        "stanag_1059": "GRL",
+        "domain": ".gl"
+    },
+    {
+        "name": "格林纳达",
+        "gec_code": "GJ",
+        "iso_3166_2a": "GD",
+        "iso_3166_3a": "GRD",
+        "iso_3166_3n": "308",
+        "stanag_1059": "GRD",
+        "domain": ".gd"
+    },
+    {
+        "name": "瓜德罗普",
+        "gec_code": "GP",
+        "iso_3166_2a": "GP",
+        "iso_3166_3a": "GLP",
+        "iso_3166_3n": "312",
+        "stanag_1059": "GLP",
+        "domain": ".gp"
+    },
+    {
+        "name": "关岛",
+        "gec_code": "GQ",
+        "iso_3166_2a": "GU",
+        "iso_3166_3a": "GUM",
+        "iso_3166_3n": "316",
+        "stanag_1059": "GUM",
+        "domain": ".gu"
+    },
+    {
+        "name": "危地马拉",
+        "gec_code": "GT",
+        "iso_3166_2a": "GT",
+        "iso_3166_3a": "GTM",
+        "iso_3166_3n": "320",
+        "stanag_1059": "GTM",
+        "domain": ".gt"
+    },
+    {
+        "name": "根西",
+        "gec_code": "GK",
+        "iso_3166_2a": "GG",
+        "iso_3166_3a": "GGY",
+        "iso_3166_3n": "831",
+        "stanag_1059": null,
+        "domain": ".gg"
+    },
+    {
+        "name": "几内亚",
+        "gec_code": "GV",
+        "iso_3166_2a": "GN",
+        "iso_3166_3a": "GIN",
+        "iso_3166_3n": "324",
+        "stanag_1059": "GIN",
+        "domain": ".gn"
+    },
+    {
+        "name": "几内亚比绍",
+        "gec_code": "PU",
+        "iso_3166_2a": "GW",
+        "iso_3166_3a": "GNB",
+        "iso_3166_3n": "624",
+        "stanag_1059": "GNB",
+        "domain": ".gw"
+    },
+    {
+        "name": "圭亚那",
+        "gec_code": "GY",
+        "iso_3166_2a": "GY",
+        "iso_3166_3a": "GUY",
+        "iso_3166_3n": "328",
+        "stanag_1059": "GUY",
+        "domain": ".gy"
+    },
+    {
+        "name": "海地",
+        "gec_code": "HA",
+        "iso_3166_2a": "HT",
+        "iso_3166_3a": "HTI",
+        "iso_3166_3n": "332",
+        "stanag_1059": "HTI",
+        "domain": ".ht"
+    },
+    {
+        "name": "赫德岛和麦克唐纳群岛",
+        "gec_code": "HM",
+        "iso_3166_2a": "HM",
+        "iso_3166_3a": "HMD",
+        "iso_3166_3n": "334",
+        "stanag_1059": "HMD",
+        "domain": ".hm"
+    },
+    {
+        "name": "梵蒂冈",
+        "gec_code": "VT",
+        "iso_3166_2a": "VA",
+        "iso_3166_3a": "VAT",
+        "iso_3166_3n": "336",
+        "stanag_1059": "VAT",
+        "domain": ".va"
+    },
+    {
+        "name": "洪都拉斯",
+        "gec_code": "HO",
+        "iso_3166_2a": "HN",
+        "iso_3166_3a": "HND",
+        "iso_3166_3n": "340",
+        "stanag_1059": "HND",
+        "domain": ".hn"
+    },
+    {
+        "name": "香港",
+        "gec_code": "HK",
+        "iso_3166_2a": "HK",
+        "iso_3166_3a": "HKG",
+        "iso_3166_3n": "344",
+        "stanag_1059": "HKG",
+        "domain": ".hk"
+    },
+    {
+        "name": "匈牙利",
+        "gec_code": "HU",
+        "iso_3166_2a": "HU",
+        "iso_3166_3a": "HUN",
+        "iso_3166_3n": "348",
+        "stanag_1059": "HUN",
+        "domain": ".hu"
+    },
+    {
+        "name": "冰岛",
+        "gec_code": "IC",
+        "iso_3166_2a": "IS",
+        "iso_3166_3a": "ISL",
+        "iso_3166_3n": "352",
+        "stanag_1059": "ISL",
+        "domain": ".is"
+    },
+    {
+        "name": "印度",
+        "gec_code": "IN",
+        "iso_3166_2a": "IN",
+        "iso_3166_3a": "IND",
+        "iso_3166_3n": "356",
+        "stanag_1059": "IND",
+        "domain": ".in"
+    },
+    {
+        "name": "印尼",
+        "gec_code": "ID",
+        "iso_3166_2a": "ID",
+        "iso_3166_3a": "IDN",
+        "iso_3166_3n": "360",
+        "stanag_1059": "IDN",
+        "domain": ".id"
+    },
+    {
+        "name": "伊朗",
+        "gec_code": "IR",
+        "iso_3166_2a": "IR",
+        "iso_3166_3a": "IRN",
+        "iso_3166_3n": "364",
+        "stanag_1059": "IRN",
+        "domain": ".ir"
+    },
+    {
+        "name": "伊拉克",
+        "gec_code": "IZ",
+        "iso_3166_2a": "IQ",
+        "iso_3166_3a": "IRQ",
+        "iso_3166_3n": "368",
+        "stanag_1059": "IRQ",
+        "domain": ".iq"
+    },
+    {
+        "name": "爱尔兰",
+        "gec_code": "EI",
+        "iso_3166_2a": "IE",
+        "iso_3166_3a": "IRL",
+        "iso_3166_3n": "372",
+        "stanag_1059": "IRL",
+        "domain": ".ie"
+    },
+    {
+        "name": "马恩岛",
+        "gec_code": "IM",
+        "iso_3166_2a": "IM",
+        "iso_3166_3a": "IMN",
+        "iso_3166_3n": "833",
+        "stanag_1059": null,
+        "domain": ".im"
+    },
+    {
+        "name": "以色列",
+        "gec_code": "IS",
+        "iso_3166_2a": "IL",
+        "iso_3166_3a": "ISR",
+        "iso_3166_3n": "376",
+        "stanag_1059": "ISR",
+        "domain": ".il"
+    },
+    {
+        "name": "意大利",
+        "gec_code": "IT",
+        "iso_3166_2a": "IT",
+        "iso_3166_3a": "ITA",
+        "iso_3166_3n": "380",
+        "stanag_1059": "ITA",
+        "domain": ".it"
+    },
+    {
+        "name": "牙买加",
+        "gec_code": "JM",
+        "iso_3166_2a": "JM",
+        "iso_3166_3a": "JAM",
+        "iso_3166_3n": "388",
+        "stanag_1059": "JAM",
+        "domain": ".jm"
+    },
+    {
+        "name": "日本",
+        "gec_code": "JA",
+        "iso_3166_2a": "JP",
+        "iso_3166_3a": "JPN",
+        "iso_3166_3n": "392",
+        "stanag_1059": "JPN",
+        "domain": ".jp"
+    },
+    {
+        "name": "泽西",
+        "gec_code": "JE",
+        "iso_3166_2a": "JE",
+        "iso_3166_3a": "JEY",
+        "iso_3166_3n": "832",
+        "stanag_1059": null,
+        "domain": ".je"
+    },
+    {
+        "name": "约旦",
+        "gec_code": "JO",
+        "iso_3166_2a": "JO",
+        "iso_3166_3a": "JOR",
+        "iso_3166_3n": "400",
+        "stanag_1059": "JOR",
+        "domain": ".jo"
+    },
+    {
+        "name": "哈萨克斯坦",
+        "gec_code": "KZ",
+        "iso_3166_2a": "KZ",
+        "iso_3166_3a": "KAZ",
+        "iso_3166_3n": "398",
+        "stanag_1059": "KAZ",
+        "domain": ".kz"
+    },
+    {
+        "name": "肯尼亚",
+        "gec_code": "KE",
+        "iso_3166_2a": "KE",
+        "iso_3166_3a": "KEN",
+        "iso_3166_3n": "404",
+        "stanag_1059": "KEN",
+        "domain": ".ke"
+    },
+    {
+        "name": "基里巴斯",
+        "gec_code": "KR",
+        "iso_3166_2a": "KI",
+        "iso_3166_3a": "KIR",
+        "iso_3166_3n": "296",
+        "stanag_1059": "KIR",
+        "domain": ".ki"
+    },
+    {
+        "name": "朝鲜",
+        "gec_code": "KN",
+        "iso_3166_2a": "KP",
+        "iso_3166_3a": "PRK",
+        "iso_3166_3n": "408",
+        "stanag_1059": "PRK",
+        "domain": ".kp"
+    },
+    {
+        "name": "韩国",
+        "gec_code": "KS",
+        "iso_3166_2a": "KR",
+        "iso_3166_3a": "KOR",
+        "iso_3166_3n": "410",
+        "stanag_1059": "KOR",
+        "domain": ".kr"
+    },
+    {
+        "name": "科索沃",
+        "gec_code": "KV",
+        "iso_3166_2a": "XK",
+        "iso_3166_3a": "XKS",
+        "iso_3166_3n": null,
+        "stanag_1059": null,
+        "domain": null
+    },
+    {
+        "name": "科威特",
+        "gec_code": "KU",
+        "iso_3166_2a": "KW",
+        "iso_3166_3a": "KWT",
+        "iso_3166_3n": "414",
+        "stanag_1059": "KWT",
+        "domain": ".kw"
+    },
+    {
+        "name": "吉尔吉斯斯坦",
+        "gec_code": "KG",
+        "iso_3166_2a": "KG",
+        "iso_3166_3a": "KGZ",
+        "iso_3166_3n": "417",
+        "stanag_1059": "KGZ",
+        "domain": ".kg"
+    },
+    {
+        "name": "老挝",
+        "gec_code": "LA",
+        "iso_3166_2a": "LA",
+        "iso_3166_3a": "LAO",
+        "iso_3166_3n": "418",
+        "stanag_1059": "LAO",
+        "domain": ".la"
+    },
+    {
+        "name": "拉脱维亚",
+        "gec_code": "LG",
+        "iso_3166_2a": "LV",
+        "iso_3166_3a": "LVA",
+        "iso_3166_3n": "428",
+        "stanag_1059": "LVA",
+        "domain": ".lv"
+    },
+    {
+        "name": "黎巴嫩",
+        "gec_code": "LE",
+        "iso_3166_2a": "LB",
+        "iso_3166_3a": "LBN",
+        "iso_3166_3n": "422",
+        "stanag_1059": "LBN",
+        "domain": ".lb"
+    },
+    {
+        "name": "莱索托",
+        "gec_code": "LT",
+        "iso_3166_2a": "LS",
+        "iso_3166_3a": "LSO",
+        "iso_3166_3n": "426",
+        "stanag_1059": "LSO",
+        "domain": ".ls"
+    },
+    {
+        "name": "利比里亚",
+        "gec_code": "LI",
+        "iso_3166_2a": "LR",
+        "iso_3166_3a": "LBR",
+        "iso_3166_3n": "430",
+        "stanag_1059": "LBR",
+        "domain": ".lr"
+    },
+    {
+        "name": "利比亚",
+        "gec_code": "LY",
+        "iso_3166_2a": "LY",
+        "iso_3166_3a": "LBY",
+        "iso_3166_3n": "434",
+        "stanag_1059": "LBY",
+        "domain": ".ly"
+    },
+    {
+        "name": "列支敦士登",
+        "gec_code": "LS",
+        "iso_3166_2a": "LI",
+        "iso_3166_3a": "LIE",
+        "iso_3166_3n": "438",
+        "stanag_1059": "LIE",
+        "domain": ".li"
+    },
+    {
+        "name": "立陶宛",
+        "gec_code": "LH",
+        "iso_3166_2a": "LT",
+        "iso_3166_3a": "LTU",
+        "iso_3166_3n": "440",
+        "stanag_1059": "LTU",
+        "domain": ".lt"
+    },
+    {
+        "name": "卢森堡",
+        "gec_code": "LU",
+        "iso_3166_2a": "LU",
+        "iso_3166_3a": "LUX",
+        "iso_3166_3n": "442",
+        "stanag_1059": "LUX",
+        "domain": ".lu"
+    },
+    {
+        "name": "澳门",
+        "gec_code": "MC",
+        "iso_3166_2a": "MO",
+        "iso_3166_3a": "MAC",
+        "iso_3166_3n": "446",
+        "stanag_1059": "MAC",
+        "domain": ".mo"
+    },
+    {
+        "name": "北马其顿",
+        "gec_code": "MK",
+        "iso_3166_2a": "MK",
+        "iso_3166_3a": "MKD",
+        "iso_3166_3n": "807",
+        "stanag_1059": "FYR",
+        "domain": ".mk"
+    },
+    {
+        "name": "马达加斯加",
+        "gec_code": "MA",
+        "iso_3166_2a": "MG",
+        "iso_3166_3a": "MDG",
+        "iso_3166_3n": "450",
+        "stanag_1059": "MDG",
+        "domain": ".mg"
+    },
+    {
+        "name": "马拉维",
+        "gec_code": "MI",
+        "iso_3166_2a": "MW",
+        "iso_3166_3a": "MWI",
+        "iso_3166_3n": "454",
+        "stanag_1059": "MWI",
+        "domain": ".mw"
+    },
+    {
+        "name": "马来西亚",
+        "gec_code": "MY",
+        "iso_3166_2a": "MY",
+        "iso_3166_3a": "MYS",
+        "iso_3166_3n": "458",
+        "stanag_1059": "MYS",
+        "domain": ".my"
+    },
+    {
+        "name": "马尔代夫",
+        "gec_code": "MV",
+        "iso_3166_2a": "MV",
+        "iso_3166_3a": "MDV",
+        "iso_3166_3n": "462",
+        "stanag_1059": "MDV",
+        "domain": ".mv"
+    },
+    {
+        "name": "马里",
+        "gec_code": "ML",
+        "iso_3166_2a": "ML",
+        "iso_3166_3a": "MLI",
+        "iso_3166_3n": "466",
+        "stanag_1059": "MLI",
+        "domain": ".ml"
+    },
+    {
+        "name": "马耳他",
+        "gec_code": "MT",
+        "iso_3166_2a": "MT",
+        "iso_3166_3a": "MLT",
+        "iso_3166_3n": "470",
+        "stanag_1059": "MLT",
+        "domain": ".mt"
+    },
+    {
+        "name": "马绍尔群岛",
+        "gec_code": "RM",
+        "iso_3166_2a": "MH",
+        "iso_3166_3a": "MHL",
+        "iso_3166_3n": "584",
+        "stanag_1059": "MHL",
+        "domain": ".mh"
+    },
+    {
+        "name": "马提尼克",
+        "gec_code": "MB",
+        "iso_3166_2a": "MQ",
+        "iso_3166_3a": "MTQ",
+        "iso_3166_3n": "474",
+        "stanag_1059": "MTQ",
+        "domain": ".mq"
+    },
+    {
+        "name": "毛里塔尼亚",
+        "gec_code": "MR",
+        "iso_3166_2a": "MR",
+        "iso_3166_3a": "MRT",
+        "iso_3166_3n": "478",
+        "stanag_1059": "MRT",
+        "domain": ".mr"
+    },
+    {
+        "name": "毛里求斯",
+        "gec_code": "MP",
+        "iso_3166_2a": "MU",
+        "iso_3166_3a": "MUS",
+        "iso_3166_3n": "480",
+        "stanag_1059": "MUS",
+        "domain": ".mu"
+    },
+    {
+        "name": "马约特",
+        "gec_code": "MF",
+        "iso_3166_2a": "YT",
+        "iso_3166_3a": "MYT",
+        "iso_3166_3n": "175",
+        "stanag_1059": "FRA",
+        "domain": ".yt"
+    },
+    {
+        "name": "墨西哥",
+        "gec_code": "MX",
+        "iso_3166_2a": "MX",
+        "iso_3166_3a": "MEX",
+        "iso_3166_3n": "484",
+        "stanag_1059": "MEX",
+        "domain": ".mx"
+    },
+    {
+        "name": "密克罗尼西亚联邦",
+        "gec_code": "FM",
+        "iso_3166_2a": "FM",
+        "iso_3166_3a": "FSM",
+        "iso_3166_3n": "583",
+        "stanag_1059": "FSM",
+        "domain": ".fm"
+    },
+    {
+        "name": "摩尔多瓦",
+        "gec_code": "MD",
+        "iso_3166_2a": "MD",
+        "iso_3166_3a": "MDA",
+        "iso_3166_3n": "498",
+        "stanag_1059": "MDA",
+        "domain": ".md"
+    },
+    {
+        "name": "摩纳哥",
+        "gec_code": "MN",
+        "iso_3166_2a": "MC",
+        "iso_3166_3a": "MCO",
+        "iso_3166_3n": "492",
+        "stanag_1059": "MCO",
+        "domain": ".mc"
+    },
+    {
+        "name": "蒙古",
+        "gec_code": "MG",
+        "iso_3166_2a": "MN",
+        "iso_3166_3a": "MNG",
+        "iso_3166_3n": "496",
+        "stanag_1059": "MNG",
+        "domain": ".mn"
+    },
+    {
+        "name": "黑山",
+        "gec_code": "MJ",
+        "iso_3166_2a": "ME",
+        "iso_3166_3a": "MNE",
+        "iso_3166_3n": "499",
+        "stanag_1059": "MNE",
+        "domain": ".me"
+    },
+    {
+        "name": "蒙特塞拉特",
+        "gec_code": "MH",
+        "iso_3166_2a": "MS",
+        "iso_3166_3a": "MSR",
+        "iso_3166_3n": "500",
+        "stanag_1059": "MSR",
+        "domain": ".ms"
+    },
+    {
+        "name": "摩洛哥",
+        "gec_code": "MO",
+        "iso_3166_2a": "MA",
+        "iso_3166_3a": "MAR",
+        "iso_3166_3n": "504",
+        "stanag_1059": "MAR",
+        "domain": ".ma"
+    },
+    {
+        "name": "莫桑比克",
+        "gec_code": "MZ",
+        "iso_3166_2a": "MZ",
+        "iso_3166_3a": "MOZ",
+        "iso_3166_3n": "508",
+        "stanag_1059": "MOZ",
+        "domain": ".mz"
+    },
+    {
+        "name": "纳米比亚",
+        "gec_code": "WA",
+        "iso_3166_2a": "NA",
+        "iso_3166_3a": "NAM",
+        "iso_3166_3n": "516",
+        "stanag_1059": "NAM",
+        "domain": ".na"
+    },
+    {
+        "name": "瑙鲁",
+        "gec_code": "NR",
+        "iso_3166_2a": "NR",
+        "iso_3166_3a": "NRU",
+        "iso_3166_3n": "520",
+        "stanag_1059": "NRU",
+        "domain": ".nr"
+    },
+    {
+        "name": "尼泊尔",
+        "gec_code": "NP",
+        "iso_3166_2a": "NP",
+        "iso_3166_3a": "NPL",
+        "iso_3166_3n": "524",
+        "stanag_1059": "NPL",
+        "domain": ".np"
+    },
+    {
+        "name": "荷兰",
+        "gec_code": "NL",
+        "iso_3166_2a": "NL",
+        "iso_3166_3a": "NLD",
+        "iso_3166_3n": "528",
+        "stanag_1059": "NLD",
+        "domain": ".nl"
+    },
+    {
+        "name": "荷属安的列斯",
+        "gec_code": "NT",
+        "iso_3166_2a": "AN",
+        "iso_3166_3a": "ANT",
+        "iso_3166_3n": null,
+        "stanag_1059": "ANT",
+        "domain": ".an"
+    },
+    {
+        "name": "新喀里多尼亚",
+        "gec_code": "NC",
+        "iso_3166_2a": "NC",
+        "iso_3166_3a": "NCL",
+        "iso_3166_3n": "540",
+        "stanag_1059": "NCL",
+        "domain": ".nc"
+    },
+    {
+        "name": "新西兰",
+        "gec_code": "NZ",
+        "iso_3166_2a": "NZ",
+        "iso_3166_3a": "NZL",
+        "iso_3166_3n": "554",
+        "stanag_1059": "NZL",
+        "domain": ".nz"
+    },
+    {
+        "name": "尼加拉瓜",
+        "gec_code": "NU",
+        "iso_3166_2a": "NI",
+        "iso_3166_3a": "NIC",
+        "iso_3166_3n": "558",
+        "stanag_1059": "NIC",
+        "domain": ".ni"
+    },
+    {
+        "name": "尼日尔",
+        "gec_code": "NG",
+        "iso_3166_2a": "NE",
+        "iso_3166_3a": "NER",
+        "iso_3166_3n": "562",
+        "stanag_1059": "NER",
+        "domain": ".ne"
+    },
+    {
+        "name": "尼日利亚",
+        "gec_code": "NI",
+        "iso_3166_2a": "NG",
+        "iso_3166_3a": "NGA",
+        "iso_3166_3n": "566",
+        "stanag_1059": "NGA",
+        "domain": ".ng"
+    },
+    {
+        "name": "纽埃",
+        "gec_code": "NE",
+        "iso_3166_2a": "NU",
+        "iso_3166_3a": "NIU",
+        "iso_3166_3n": "570",
+        "stanag_1059": "NIU",
+        "domain": ".nu"
+    },
+    {
+        "name": "诺福克岛",
+        "gec_code": "NF",
+        "iso_3166_2a": "NF",
+        "iso_3166_3a": "NFK",
+        "iso_3166_3n": "574",
+        "stanag_1059": "NFK",
+        "domain": ".nf"
+    },
+    {
+        "name": "北马里亚纳群岛",
+        "gec_code": "CQ",
+        "iso_3166_2a": "MP",
+        "iso_3166_3a": "MNP",
+        "iso_3166_3n": "580",
+        "stanag_1059": "MNP",
+        "domain": ".mp"
+    },
+    {
+        "name": "挪威",
+        "gec_code": "NO",
+        "iso_3166_2a": "NO",
+        "iso_3166_3a": "NOR",
+        "iso_3166_3n": "578",
+        "stanag_1059": "NOR",
+        "domain": ".no"
+    },
+    {
+        "name": "阿曼",
+        "gec_code": "MU",
+        "iso_3166_2a": "OM",
+        "iso_3166_3a": "OMN",
+        "iso_3166_3n": "512",
+        "stanag_1059": "OMN",
+        "domain": ".om"
+    },
+    {
+        "name": "巴基斯坦",
+        "gec_code": "PK",
+        "iso_3166_2a": "PK",
+        "iso_3166_3a": "PAK",
+        "iso_3166_3n": "586",
+        "stanag_1059": "PAK",
+        "domain": ".pk"
+    },
+    {
+        "name": "帕劳",
+        "gec_code": "PS",
+        "iso_3166_2a": "PW",
+        "iso_3166_3a": "PLW",
+        "iso_3166_3n": "585",
+        "stanag_1059": "PLW",
+        "domain": ".pw"
+    },
+    {
+        "name": "巴拿马",
+        "gec_code": "PM",
+        "iso_3166_2a": "PA",
+        "iso_3166_3a": "PAN",
+        "iso_3166_3n": "591",
+        "stanag_1059": "PAN",
+        "domain": ".pa"
+    },
+    {
+        "name": "巴布亚新几内亚",
+        "gec_code": "PP",
+        "iso_3166_2a": "PG",
+        "iso_3166_3a": "PNG",
+        "iso_3166_3n": "598",
+        "stanag_1059": "PNG",
+        "domain": ".pg"
+    },
+    {
+        "name": "巴拉圭",
+        "gec_code": "PA",
+        "iso_3166_2a": "PY",
+        "iso_3166_3a": "PRY",
+        "iso_3166_3n": "600",
+        "stanag_1059": "PRY",
+        "domain": ".py"
+    },
+    {
+        "name": "秘鲁",
+        "gec_code": "PE",
+        "iso_3166_2a": "PE",
+        "iso_3166_3a": "PER",
+        "iso_3166_3n": "604",
+        "stanag_1059": "PER",
+        "domain": ".pe"
+    },
+    {
+        "name": "菲律宾",
+        "gec_code": "RP",
+        "iso_3166_2a": "PH",
+        "iso_3166_3a": "PHL",
+        "iso_3166_3n": "608",
+        "stanag_1059": "PHL",
+        "domain": ".ph"
+    },
+    {
+        "name": "皮特凯恩群岛",
+        "gec_code": "PC",
+        "iso_3166_2a": "PN",
+        "iso_3166_3a": "PCN",
+        "iso_3166_3n": "612",
+        "stanag_1059": "PCN",
+        "domain": ".pn"
+    },
+    {
+        "name": "波兰",
+        "gec_code": "PL",
+        "iso_3166_2a": "PL",
+        "iso_3166_3a": "POL",
+        "iso_3166_3n": "616",
+        "stanag_1059": "POL",
+        "domain": ".pl"
+    },
+    {
+        "name": "葡萄牙",
+        "gec_code": "PO",
+        "iso_3166_2a": "PT",
+        "iso_3166_3a": "PRT",
+        "iso_3166_3n": "620",
+        "stanag_1059": "PRT",
+        "domain": ".pt"
+    },
+    {
+        "name": "波多黎各",
+        "gec_code": "RQ",
+        "iso_3166_2a": "PR",
+        "iso_3166_3a": "PRI",
+        "iso_3166_3n": "630",
+        "stanag_1059": "PRI",
+        "domain": ".pr"
+    },
+    {
+        "name": "卡塔尔",
+        "gec_code": "QA",
+        "iso_3166_2a": "QA",
+        "iso_3166_3a": "QAT",
+        "iso_3166_3n": "634",
+        "stanag_1059": "QAT",
+        "domain": ".qa"
+    },
+    {
+        "name": "留尼汪",
+        "gec_code": "RE",
+        "iso_3166_2a": "RE",
+        "iso_3166_3a": "REU",
+        "iso_3166_3n": "638",
+        "stanag_1059": "REU",
+        "domain": ".re"
+    },
+    {
+        "name": "罗马尼亚",
+        "gec_code": "RO",
+        "iso_3166_2a": "RO",
+        "iso_3166_3a": "ROU",
+        "iso_3166_3n": "642",
+        "stanag_1059": "ROU",
+        "domain": ".ro"
+    },
+    {
+        "name": "台湾",
+        "gec_code": "TW",
+        "iso_3166_2a": "TW",
+        "iso_3166_3a": "TWN",
+        "iso_3166_3n": "158",
+        "stanag_1059": "TWN",
+        "domain": ".tw"
+    },
+    {
+        "name": "俄罗斯",
+        "gec_code": "RS",
+        "iso_3166_2a": "RU",
+        "iso_3166_3a": "RUS",
+        "iso_3166_3n": "643",
+        "stanag_1059": "RUS",
+        "domain": ".ru"
+    },
+    {
+        "name": "卢旺达",
+        "gec_code": "RW",
+        "iso_3166_2a": "RW",
+        "iso_3166_3a": "RWA",
+        "iso_3166_3n": "646",
+        "stanag_1059": "RWA",
+        "domain": ".rw"
+    },
+    {
+        "name": "圣巴泰勒米",
+        "gec_code": "TB",
+        "iso_3166_2a": "BL",
+        "iso_3166_3a": "BLM",
+        "iso_3166_3n": "652",
+        "stanag_1059": null,
+        "domain": ".bl"
+    },
+    {
+        "name": "圣赫勒拿、阿森松和特里斯坦-达库尼亚",
+        "gec_code": "SH",
+        "iso_3166_2a": "SH",
+        "iso_3166_3a": "SHN",
+        "iso_3166_3n": "654",
+        "stanag_1059": "SHN",
+        "domain": ".sh"
+    },
+    {
+        "name": "圣基茨和尼维斯",
+        "gec_code": "SC",
+        "iso_3166_2a": "KN",
+        "iso_3166_3a": "KNA",
+        "iso_3166_3n": "659",
+        "stanag_1059": "KNA",
+        "domain": ".kn"
+    },
+    {
+        "name": "圣卢西亚",
+        "gec_code": "ST",
+        "iso_3166_2a": "LC",
+        "iso_3166_3a": "LCA",
+        "iso_3166_3n": "662",
+        "stanag_1059": "LCA",
+        "domain": ".lc"
+    },
+    {
+        "name": "法属圣马丁",
+        "gec_code": "RN",
+        "iso_3166_2a": "MF",
+        "iso_3166_3a": "MAF",
+        "iso_3166_3n": "663",
+        "stanag_1059": null,
+        "domain": ".mf"
+    },
+    {
+        "name": "圣文森特和格林纳丁斯",
+        "gec_code": "VC",
+        "iso_3166_2a": "VC",
+        "iso_3166_3a": "VCT",
+        "iso_3166_3n": "670",
+        "stanag_1059": "VCT",
+        "domain": ".vc"
+    },
+    {
+        "name": "萨摩亚",
+        "gec_code": "WS",
+        "iso_3166_2a": "WS",
+        "iso_3166_3a": "WSM",
+        "iso_3166_3n": "882",
+        "stanag_1059": "WSM",
+        "domain": ".ws"
+    },
+    {
+        "name": "圣马力诺",
+        "gec_code": "SM",
+        "iso_3166_2a": "SM",
+        "iso_3166_3a": "SMR",
+        "iso_3166_3n": "674",
+        "stanag_1059": "SMR",
+        "domain": ".sm"
+    },
+    {
+        "name": "圣多美和普林西比",
+        "gec_code": "TP",
+        "iso_3166_2a": "ST",
+        "iso_3166_3a": "STP",
+        "iso_3166_3n": "678",
+        "stanag_1059": "STP",
+        "domain": ".st"
+    },
+    {
+        "name": "沙特阿拉伯",
+        "gec_code": "SA",
+        "iso_3166_2a": "SA",
+        "iso_3166_3a": "SAU",
+        "iso_3166_3n": "682",
+        "stanag_1059": "SAU",
+        "domain": ".sa"
+    },
+    {
+        "name": "塞内加尔",
+        "gec_code": "SG",
+        "iso_3166_2a": "SN",
+        "iso_3166_3a": "SEN",
+        "iso_3166_3n": "686",
+        "stanag_1059": "SEN",
+        "domain": ".sn"
+    },
+    {
+        "name": "塞尔维亚",
+        "gec_code": "RI",
+        "iso_3166_2a": "RS",
+        "iso_3166_3a": "SRB",
+        "iso_3166_3n": "688",
+        "stanag_1059": "SRB",
+        "domain": ".rs"
+    },
+    {
+        "name": "塞舌尔",
+        "gec_code": "SE",
+        "iso_3166_2a": "SC",
+        "iso_3166_3a": "SYC",
+        "iso_3166_3n": "690",
+        "stanag_1059": "SYC",
+        "domain": ".sc"
+    },
+    {
+        "name": "塞拉利昂",
+        "gec_code": "SL",
+        "iso_3166_2a": "SL",
+        "iso_3166_3a": "SLE",
+        "iso_3166_3n": "694",
+        "stanag_1059": "SLE",
+        "domain": ".sl"
+    },
+    {
+        "name": "新加坡",
+        "gec_code": "SN",
+        "iso_3166_2a": "SG",
+        "iso_3166_3a": "SGP",
+        "iso_3166_3n": "702",
+        "stanag_1059": "SGP",
+        "domain": ".sg"
+    },
+    {
+        "name": "荷属圣马丁",
+        "gec_code": "NN",
+        "iso_3166_2a": "SX",
+        "iso_3166_3a": "SXM",
+        "iso_3166_3n": "534",
+        "stanag_1059": null,
+        "domain": ".sx"
+    },
+    {
+        "name": "斯洛伐克",
+        "gec_code": "LO",
+        "iso_3166_2a": "SK",
+        "iso_3166_3a": "SVK",
+        "iso_3166_3n": "703",
+        "stanag_1059": "SVK",
+        "domain": ".sk"
+    },
+    {
+        "name": "斯洛文尼亚",
+        "gec_code": "SI",
+        "iso_3166_2a": "SI",
+        "iso_3166_3a": "SVN",
+        "iso_3166_3n": "705",
+        "stanag_1059": "SVN",
+        "domain": ".si"
+    },
+    {
+        "name": "所罗门群岛",
+        "gec_code": "BP",
+        "iso_3166_2a": "SB",
+        "iso_3166_3a": "SLB",
+        "iso_3166_3n": "090",
+        "stanag_1059": "SLB",
+        "domain": ".sb"
+    },
+    {
+        "name": "索马里",
+        "gec_code": "SO",
+        "iso_3166_2a": "SO",
+        "iso_3166_3a": "SOM",
+        "iso_3166_3n": "706",
+        "stanag_1059": "SOM",
+        "domain": ".so"
+    },
+    {
+        "name": "南非",
+        "gec_code": "SF",
+        "iso_3166_2a": "ZA",
+        "iso_3166_3a": "ZAF",
+        "iso_3166_3n": "710",
+        "stanag_1059": "ZAF",
+        "domain": ".za"
+    },
+    {
+        "name": "南乔治亚和南桑威奇群岛",
+        "gec_code": "SX",
+        "iso_3166_2a": "GS",
+        "iso_3166_3a": "SGS",
+        "iso_3166_3n": "239",
+        "stanag_1059": "SGS",
+        "domain": ".gs"
+    },
+    {
+        "name": "南苏丹",
+        "gec_code": "OD",
+        "iso_3166_2a": "SS",
+        "iso_3166_3a": "SSD",
+        "iso_3166_3n": "728",
+        "stanag_1059": "SSD",
+        "domain": ".ss"
+    },
+    {
+        "name": "西班牙",
+        "gec_code": "SP",
+        "iso_3166_2a": "ES",
+        "iso_3166_3a": "ESP",
+        "iso_3166_3n": "724",
+        "stanag_1059": "ESP",
+        "domain": ".es"
+    },
+    {
+        "name": "斯里兰卡",
+        "gec_code": "CE",
+        "iso_3166_2a": "LK",
+        "iso_3166_3a": "LKA",
+        "iso_3166_3n": "144",
+        "stanag_1059": "LKA",
+        "domain": ".lk"
+    },
+    {
+        "name": "苏丹",
+        "gec_code": "SU",
+        "iso_3166_2a": "SD",
+        "iso_3166_3a": "SDN",
+        "iso_3166_3n": "729",
+        "stanag_1059": "SDN",
+        "domain": ".sd"
+    },
+    {
+        "name": "苏里南",
+        "gec_code": "NS",
+        "iso_3166_2a": "SR",
+        "iso_3166_3a": "SUR",
+        "iso_3166_3n": "740",
+        "stanag_1059": "SUR",
+        "domain": ".sr"
+    },
+    {
+        "name": "圣皮埃尔和密克隆",
+        "gec_code": "SB",
+        "iso_3166_2a": "PM",
+        "iso_3166_3a": "SPM",
+        "iso_3166_3n": "666",
+        "stanag_1059": "SPM",
+        "domain": ".pm"
+    },
+    {
+        "name": "斯威士兰",
+        "gec_code": "WZ",
+        "iso_3166_2a": "SZ",
+        "iso_3166_3a": "SWZ",
+        "iso_3166_3n": "748",
+        "stanag_1059": "SWZ",
+        "domain": ".sz"
+    },
+    {
+        "name": "瑞典",
+        "gec_code": "SW",
+        "iso_3166_2a": "SE",
+        "iso_3166_3a": "SWE",
+        "iso_3166_3n": "752",
+        "stanag_1059": "SWE",
+        "domain": ".se"
+    },
+    {
+        "name": "瑞士",
+        "gec_code": "SZ",
+        "iso_3166_2a": "CH",
+        "iso_3166_3a": "CHE",
+        "iso_3166_3n": "756",
+        "stanag_1059": "CHE",
+        "domain": ".ch"
+    },
+    {
+        "name": "叙利亚",
+        "gec_code": "SY",
+        "iso_3166_2a": "SY",
+        "iso_3166_3a": "SYR",
+        "iso_3166_3n": "760",
+        "stanag_1059": "SYR",
+        "domain": ".sy"
+    },
+    {
+        "name": "塔吉克斯坦",
+        "gec_code": "TI",
+        "iso_3166_2a": "TJ",
+        "iso_3166_3a": "TJK",
+        "iso_3166_3n": "762",
+        "stanag_1059": "TJK",
+        "domain": ".tj"
+    },
+    {
+        "name": "坦桑尼亚",
+        "gec_code": "TZ",
+        "iso_3166_2a": "TZ",
+        "iso_3166_3a": "TZA",
+        "iso_3166_3n": "834",
+        "stanag_1059": "TZA",
+        "domain": ".tz"
+    },
+    {
+        "name": "泰国",
+        "gec_code": "TH",
+        "iso_3166_2a": "TH",
+        "iso_3166_3a": "THA",
+        "iso_3166_3n": "764",
+        "stanag_1059": "THA",
+        "domain": ".th"
+    },
+    {
+        "name": "东帝汶",
+        "gec_code": "TT",
+        "iso_3166_2a": "TL",
+        "iso_3166_3a": "TLS",
+        "iso_3166_3n": "626",
+        "stanag_1059": "TLS",
+        "domain": ".tl"
+    },
+    {
+        "name": "多哥",
+        "gec_code": "TO",
+        "iso_3166_2a": "TG",
+        "iso_3166_3a": "TGO",
+        "iso_3166_3n": "768",
+        "stanag_1059": "TGO",
+        "domain": ".tg"
+    },
+    {
+        "name": "托克劳",
+        "gec_code": "TL",
+        "iso_3166_2a": "TK",
+        "iso_3166_3a": "TKL",
+        "iso_3166_3n": "772",
+        "stanag_1059": "TKL",
+        "domain": ".tk"
+    },
+    {
+        "name": "汤加",
+        "gec_code": "TN",
+        "iso_3166_2a": "TO",
+        "iso_3166_3a": "TON",
+        "iso_3166_3n": "776",
+        "stanag_1059": "TON",
+        "domain": ".to"
+    },
+    {
+        "name": "特立尼达和多巴哥",
+        "gec_code": "TD",
+        "iso_3166_2a": "TT",
+        "iso_3166_3a": "TTO",
+        "iso_3166_3n": "780",
+        "stanag_1059": "TTO",
+        "domain": ".tt"
+    },
+    {
+        "name": "突尼斯",
+        "gec_code": "TS",
+        "iso_3166_2a": "TN",
+        "iso_3166_3a": "TUN",
+        "iso_3166_3n": "788",
+        "stanag_1059": "TUN",
+        "domain": ".tn"
+    },
+    {
+        "name": "土耳其",
+        "gec_code": "TU",
+        "iso_3166_2a": "TR",
+        "iso_3166_3a": "TUR",
+        "iso_3166_3n": "792",
+        "stanag_1059": "TUR",
+        "domain": ".tr"
+    },
+    {
+        "name": "土库曼斯坦",
+        "gec_code": "TX",
+        "iso_3166_2a": "TM",
+        "iso_3166_3a": "TKM",
+        "iso_3166_3n": "795",
+        "stanag_1059": "TKM",
+        "domain": ".tm"
+    },
+    {
+        "name": "特克斯和凯科斯群岛",
+        "gec_code": "TK",
+        "iso_3166_2a": "TC",
+        "iso_3166_3a": "TCA",
+        "iso_3166_3n": "796",
+        "stanag_1059": "TCA",
+        "domain": ".tc"
+    },
+    {
+        "name": "图瓦卢",
+        "gec_code": "TV",
+        "iso_3166_2a": "TV",
+        "iso_3166_3a": "TUV",
+        "iso_3166_3n": "798",
+        "stanag_1059": "TUV",
+        "domain": ".tv"
+    },
+    {
+        "name": "乌干达",
+        "gec_code": "UG",
+        "iso_3166_2a": "UG",
+        "iso_3166_3a": "UGA",
+        "iso_3166_3n": "800",
+        "stanag_1059": "UGA",
+        "domain": ".ug"
+    },
+    {
+        "name": "乌克兰",
+        "gec_code": "UP",
+        "iso_3166_2a": "UA",
+        "iso_3166_3a": "UKR",
+        "iso_3166_3n": "804",
+        "stanag_1059": "UKR",
+        "domain": ".ua"
+    },
+    {
+        "name": "阿联酋",
+        "gec_code": "AE",
+        "iso_3166_2a": "AE",
+        "iso_3166_3a": "ARE",
+        "iso_3166_3n": "784",
+        "stanag_1059": "ARE",
+        "domain": ".ae"
+    },
+    {
+        "name": "英国",
+        "gec_code": "UK",
+        "iso_3166_2a": "GB",
+        "iso_3166_3a": "GBR",
+        "iso_3166_3n": "826",
+        "stanag_1059": "GBR",
+        "domain": ".uk"
+    },
+    {
+        "name": "美国",
+        "gec_code": "US",
+        "iso_3166_2a": "US",
+        "iso_3166_3a": "USA",
+        "iso_3166_3n": "840",
+        "stanag_1059": "USA",
+        "domain": ".us"
+    },
+    {
+        "name": "美国本土外小岛屿",
+        "gec_code": "UM",
+        "iso_3166_2a": "UM",
+        "iso_3166_3a": "UMI",
+        "iso_3166_3n": "581",
+        "stanag_1059": null,
+        "domain": ".um"
+    },
+    {
+        "name": "乌拉圭",
+        "gec_code": "UY",
+        "iso_3166_2a": "UY",
+        "iso_3166_3a": "URY",
+        "iso_3166_3n": "858",
+        "stanag_1059": "URY",
+        "domain": ".uy"
+    },
+    {
+        "name": "乌兹别克斯坦",
+        "gec_code": "UZ",
+        "iso_3166_2a": "UZ",
+        "iso_3166_3a": "UZB",
+        "iso_3166_3n": "860",
+        "stanag_1059": "UZB",
+        "domain": ".uz"
+    },
+    {
+        "name": "瓦努阿图",
+        "gec_code": "NH",
+        "iso_3166_2a": "VU",
+        "iso_3166_3a": "VUT",
+        "iso_3166_3n": "548",
+        "stanag_1059": "VUT",
+        "domain": ".vu"
+    },
+    {
+        "name": "委内瑞拉",
+        "gec_code": "VE",
+        "iso_3166_2a": "VE",
+        "iso_3166_3a": "VEN",
+        "iso_3166_3n": "862",
+        "stanag_1059": "VEN",
+        "domain": ".ve"
+    },
+    {
+        "name": "越南",
+        "gec_code": "VM",
+        "iso_3166_2a": "VN",
+        "iso_3166_3a": "VNM",
+        "iso_3166_3n": "704",
+        "stanag_1059": "VNM",
+        "domain": ".vn"
+    },
+    {
+        "name": "美属维尔京群岛",
+        "gec_code": "VQ",
+        "iso_3166_2a": "VI",
+        "iso_3166_3a": "VIR",
+        "iso_3166_3n": "850",
+        "stanag_1059": "VIR",
+        "domain": ".vi"
+    },
+    {
+        "name": "瓦利斯和富图纳",
+        "gec_code": "WF",
+        "iso_3166_2a": "WF",
+        "iso_3166_3a": "WLF",
+        "iso_3166_3n": "876",
+        "stanag_1059": "WLF",
+        "domain": ".wf"
+    },
+    {
+        "name": "巴勒斯坦",
+        "gec_code": "WE",
+        "iso_3166_2a": "PS",
+        "iso_3166_3a": "PSE",
+        "iso_3166_3n": "275",
+        "stanag_1059": "PSE",
+        "domain": ".ps"
+    },
+    {
+        "name": "西撒哈拉",
+        "gec_code": "WI",
+        "iso_3166_2a": "EH",
+        "iso_3166_3a": "ESH",
+        "iso_3166_3n": "732",
+        "stanag_1059": "ESH",
+        "domain": ".eh"
+    },
+    {
+        "name": "联合国",
+        "gec_code": "UN",
+        "iso_3166_2a": "UN",
+        "iso_3166_3a": "UNO",
+        "iso_3166_3n": null,
+        "stanag_1059": null,
+        "domain": null
+    },
+    {
+        "name": "欧洲联盟",
+        "gec_code": "EU",
+        "iso_3166_2a": "EU",
+        "iso_3166_3a": "EUE",
+        "iso_3166_3n": null,
+        "stanag_1059": null,
+        "domain": ".eu"
+    },
+    {
+        "name": "非盟",
+        "gec_code": "AU",
+        "iso_3166_2a": null,
+        "iso_3166_3a": null,
+        "iso_3166_3n": null,
+        "stanag_1059": null,
+        "domain": null
+    },
+    {
+        "name": "东南亚国家联盟",
+        "gec_code": "ASEAN",
+        "iso_3166_2a": null,
+        "iso_3166_3a": null,
+        "iso_3166_3n": null,
+        "stanag_1059": null,
+        "domain": null
+    },
+    {
+        "name": "也门",
+        "gec_code": "YM",
+        "iso_3166_2a": "YE",
+        "iso_3166_3a": "YEM",
+        "iso_3166_3n": "887",
+        "stanag_1059": "YEM",
+        "domain": ".ye"
+    },
+    {
+        "name": "扎伊尔",
+        "gec_code": "ZA",
+        "iso_3166_2a": "ZA",
+        "iso_3166_3a": "ZAI",
+        "iso_3166_3n": null,
+        "stanag_1059": "ZAI",
+        "domain": null
+    },
+    {
+        "name": "赞比亚",
+        "gec_code": "ZA",
+        "iso_3166_2a": "ZM",
+        "iso_3166_3a": "ZMB",
+        "iso_3166_3n": "894",
+        "stanag_1059": "ZMB",
+        "domain": ".zm"
+    },
+    {
+        "name": "津巴布韦",
+        "gec_code": "ZI",
+        "iso_3166_2a": "ZW",
+        "iso_3166_3a": "ZWE",
+        "iso_3166_3n": "716",
+        "stanag_1059": "ZWE",
+        "domain": ".zw"
+    },
+    {
+        "name": "罗得西亚",
+        "gec_code": "RH",
+        "iso_3166_2a": "RO",
+        "iso_3166_3a": "RHO",
+        "iso_3166_3n": null,
+        "stanag_1059": "RHO",
+        "domain": null
+    },
+    {
+        "name": "西印度群岛联邦",
+        "gec_code": "WI",
+        "iso_3166_2a": "WI",
+        "iso_3166_3a": "WIF",
+        "iso_3166_3n": null,
+        "stanag_1059": "WIF",
+        "domain": null
+    },
+    {
+        "name": "独立国家联合体",
+        "gec_code": "EN",
+        "iso_3166_2a": "EN",
+        "iso_3166_3a": "EUN",
+        "iso_3166_3n": null,
+        "stanag_1059": "EUN",
+        "domain": null
+    },
+    {
+        "name": "澳大拉西亚",
+        "gec_code": "AN",
+        "iso_3166_2a": "AZ",
+        "iso_3166_3a": "ANZ",
+        "iso_3166_3n": null,
+        "stanag_1059": "ANZ",
+        "domain": null
+    },
+    {
+        "name": "南斯拉夫",
+        "gec_code": "YU",
+        "iso_3166_2a": "YG",
+        "iso_3166_3a": "YUG",
+        "iso_3166_3n": null,
+        "stanag_1059": "YUG",
+        "domain": null
+    },
+    {
+        "name": "苏联",
+        "gec_code": "UR",
+        "iso_3166_2a": "UR",
+        "iso_3166_3a": "URS",
+        "iso_3166_3n": null,
+        "stanag_1059": "URS",
+        "domain": null
+    },
+    {
+        "name": "达荷美",
+        "gec_code": "DA",
+        "iso_3166_2a": "DH",
+        "iso_3166_3a": "DAH",
+        "iso_3166_3n": null,
+        "stanag_1059": "DAH",
+        "domain": null
+    },
+    {
+        "name": "上沃尔特",
+        "gec_code": "VO",
+        "iso_3166_2a": "VL",
+        "iso_3166_3a": "VOL",
+        "iso_3166_3n": null,
+        "stanag_1059": "VOL",
+        "domain": null
+    },
+    {
+        "name": "波希米亚",
+        "gec_code": "BO",
+        "iso_3166_2a": "BO",
+        "iso_3166_3a": "BOH",
+        "iso_3166_3n": null,
+        "stanag_1059": "BOH",
+        "domain": null
+    },
+    {
+        "name": "捷克斯洛伐克",
+        "gec_code": "TC",
+        "iso_3166_2a": "TC",
+        "iso_3166_3a": "TCH",
+        "iso_3166_3n": null,
+        "stanag_1059": "TCH",
+        "domain": null
+    },
+    {
+        "name": "阿拉伯联合共和国",
+        "gec_code": "UA",
+        "iso_3166_2a": "UA",
+        "iso_3166_3a": "UAR",
+        "iso_3166_3n": null,
+        "stanag_1059": "UAR",
+        "domain": null
+    },
+    {
+        "name": "塞尔维亚和黑山",
+        "gec_code": "SC",
+        "iso_3166_2a": "SG",
+        "iso_3166_3a": "SCG",
+        "iso_3166_3n": null,
+        "stanag_1059": "SCG",
+        "domain": null
+    }
+]

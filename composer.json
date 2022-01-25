@@ -1,0 +1,38 @@
+{
+    "name": "np4p/country-codes",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Zelin Ning",
+            "email": "nizerin98@gmail.com",
+            "homepage": "https://nizer.in"
+        }
+    ],
+    "require": {
+        "php": ">=8.0",
+        "illuminate/collections": "^8.0"
+    },
+    "require-dev": {
+        "friendsofphp/php-cs-fixer": "^v3.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Np4p\\CountryCodes\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "HyperfTest\\": "test/"
+        }
+    },
+    "scripts": {
+        "cs-fix": "php-cs-fixer fix $1"
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://mirrors.cloud.tencent.com/composer"
+        }
+    }
+}
